@@ -35,7 +35,7 @@ This project predicts whether a banking customer will accept a **personal loan o
 
 ## Repository Structure
 ```
-AIML-Personal-Loan-Classification/
+Personal-Loan-Classification/
 ├── loan_classification.ipynb # Main notebook (rename from LoanModellingClassificationProject.ipynb)
 ├── Loan_Modelling.csv # Dataset
 └── README.md # Project documentation
